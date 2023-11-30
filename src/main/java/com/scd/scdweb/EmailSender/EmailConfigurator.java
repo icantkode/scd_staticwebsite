@@ -1,4 +1,4 @@
-package com.scd.scdweb;
+package com.scd.scdweb.EmailSender;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

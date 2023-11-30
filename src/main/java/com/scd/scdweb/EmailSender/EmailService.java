@@ -1,4 +1,4 @@
-package com.scd.scdweb;
+package com.scd.scdweb.EmailSender;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.javamail.JavaMailSender;
